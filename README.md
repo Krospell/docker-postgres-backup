@@ -1,4 +1,4 @@
-This repository contains scripts allowing for Docker contained PSQL instances to be backed up and restored on-demand.
+This repository contains template scripts allowing for Docker contained PSQL instances to be backed up and restored on-demand.
 
 # Usage
 **NOTA**: This script must be run on the host with the database installed.
